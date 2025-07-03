@@ -1,13 +1,13 @@
 # Face Detection with Media Pipe (TFLite) in Jupyter Notebook
 
-This project demonstrates how to perform object detection using the **Face Detection Short Range** model from **Media Pipe**, running inside a Jupyter Notebook. The model is used in its **TensorFlow Lite (TFLite)** format for lightweight and fast inference.
+This project demonstrates how to perform face detection using the **Face Detection Short Range** model from **Media Pipe**, running inside a Jupyter Notebook. The model is used in its **TensorFlow Lite (TFLite)** format for lightweight and fast inference.
 
 ## 🎯 What This Notebook Does
 
 The notebook walks through the process of:
 - Loading a Face Detection model in TFLite format
 - Reading and preparing an image for inference
-- Running object detection
+- Running face detection
 - Displaying the image with detected faces
 
 This is intended for basic experimentation and learning.
